@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-
+#上传github仓库
 squares = [1,4,9,16,25]
 fig,ax = plt.subplots()
 ax.plot(squares)
